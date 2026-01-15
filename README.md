@@ -27,5 +27,5 @@ Successful CORS preflight request:
 Express / Node.JS / JavaScript / Water.css / HTML5
 
 ## Author
-Server: ChatGPT 5.2, prompted by Arturo Mora-Rioja.
+Server: ChatGPT 5.2, prompted by Arturo Mora-Rioja.  
 Client: Arturo Mora-Rioja
